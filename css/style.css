@@ -75,7 +75,7 @@ a {
   font-size: 14px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: var(--title-text-color);
+  color: rgba(117, 117, 117, 1);
 }
 .contact-us a:hover,
 .contact-us a:focus {
